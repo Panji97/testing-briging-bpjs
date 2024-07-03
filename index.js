@@ -21,11 +21,11 @@ const headers = {
   user_key: userKey,
 }
 
-const params1 = '01'
+const params1 = '0000039043765'
 const params2 = '2'
 const params3 = '1'
 
-fetch(`https://apijkn-dev.bpjs-kesehatan.go.id/pcare-rest-dev/diagnosa/${params1}/${params2}/${params3}`, {
+fetch(`https://apijkn-dev.bpjs-kesehatan.go.id/pcare-rest-dev/spesialis`, {
   method: 'GET',
   headers: headers,
 })
