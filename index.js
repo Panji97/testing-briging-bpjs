@@ -1,3 +1,11 @@
+/**
+ * 
+ * Link: https://dvlp.bpjs-kesehatan.go.id:8888/trust-mark/login.html
+Pilih Akun: Mitra BPJS Kesehatan
+Username: ciciliachenny
+Password: @CiciliaChenny123
+ */
+
 import crypto from 'crypto'
 import LZString from 'lz-string'
 
